@@ -23,3 +23,8 @@ https://laelgelcawsemrmariana.s3.sa-east-1.amazonaws.com/mari202010.jsonl
 https://laelgelcawsemrmariana.s3.sa-east-1.amazonaws.com/mari202011.jsonl
 https://laelgelcawsemrmariana.s3.sa-east-1.amazonaws.com/mari202012.jsonl
 
+Prettifying JSON with jq
+https://github.com/laelgelc/laelgelc/blob/main/CL_jq_JSON.ipynb
+
+Introduction to Tweet JSON
+https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/overview
