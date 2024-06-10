@@ -11,7 +11,7 @@ parser.add_argument(
 args = parser.parse_args()
 
 # Create a SparkSession
-spark = SparkSession.builder.appName('The Twitter Grab 2019 Corpus').getOrCreate()
+spark = SparkSession.builder.appName('The Twitter Grab Corpus').getOrCreate()
 
 # Read the JSONL files into a DataFrame
 #tweets_spark_df = spark.read.json(args.data_source) # RevA parameters
