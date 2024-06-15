@@ -1,0 +1,26 @@
+Application location
+s3://laelgelcawsemrmariana/CL_AWS_EMR_Step_Mariana.py
+
+2017_1
+--data_source s3://gelctweets/2017_1/
+--output_path s3://gelcawsemr/2017_1/filtered_tweets.jsonl
+
+2017_2
+--data_source s3://gelctweets/2017_2/
+--output_path s3://gelcawsemr/2017_2/filtered_tweets.jsonl
+
+2017_3
+--data_source s3://gelctweets/2017_3/
+--output_path s3://gelcawsemr/2017_3/filtered_tweets.jsonl
+
+2017_4
+--data_source s3://gelctweets/2017_4/
+--output_path s3://gelcawsemr/2017_4/filtered_tweets.jsonl
+
+2017_5
+--data_source s3://gelctweets/2017_5/
+--output_path s3://gelcawsemr/2017_5/filtered_tweets.jsonl
+
+2017_6
+--data_source s3://gelctweets/2017_6/
+--output_path s3://gelcawsemr/2017_6/filtered_tweets.jsonl
