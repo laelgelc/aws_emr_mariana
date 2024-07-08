@@ -1,0 +1,54 @@
+Application location
+s3://laelgelcawsemrmariana/CL_AWS_EMR_Step_Mariana.py
+
+2021_1
+--data_source s3://gelctweets2021/2021_1/
+--output_path s3://gelcawsemr2021/2021_1/filtered_tweets.jsonl
+
+2021_2
+--data_source s3://gelctweets2021/2021_2/
+--output_path s3://gelcawsemr2021/2021_2/filtered_tweets.jsonl
+
+2021_3
+--data_source s3://gelctweets2021/2021_3/
+--output_path s3://gelcawsemr2021/2021_3/filtered_tweets.jsonl
+
+2021_4
+--data_source s3://gelctweets2021/2021_4/
+--output_path s3://gelcawsemr2021/2021_4/filtered_tweets.jsonl
+
+2021_5
+--data_source s3://gelctweets2021/2021_5/
+--output_path s3://gelcawsemr2021/2021_5/filtered_tweets.jsonl
+
+2021_6
+--data_source s3://gelctweets2021/2021_6/
+--output_path s3://gelcawsemr2021/2021_6/filtered_tweets.jsonl
+
+2021_7
+--data_source s3://gelctweets2021/2021_7/
+--output_path s3://gelcawsemr2021/2021_7/filtered_tweets.jsonl
+
+2021_8_1
+--data_source s3://gelctweets2021/2021_8/
+--output_path s3://gelcawsemr2021/2021_8_1/filtered_tweets.jsonl
+
+2021_8_2
+--data_source s3://gelctweets2021/2022_8/
+--output_path s3://gelcawsemr2021/2021_8_2/filtered_tweets.jsonl
+
+2021_9
+--data_source s3://gelctweets2021/2022_9/
+--output_path s3://gelcawsemr2021/2021_9/filtered_tweets.jsonl
+
+2021_10
+--data_source s3://gelctweets2021/2022_10/
+--output_path s3://gelcawsemr2021/2021_10/filtered_tweets.jsonl
+
+2021_11
+--data_source s3://gelctweets2021/2022_11/
+--output_path s3://gelcawsemr2021/2021_11/filtered_tweets.jsonl
+
+2021_12
+--data_source s3://gelctweets2021/2022_12/
+--output_path s3://gelcawsemr2021/2021_12/filtered_tweets.jsonl
